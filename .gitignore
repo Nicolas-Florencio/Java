@@ -21,9 +21,11 @@
 
 # Folders #
 **/nbproject
+**/target
 **/test-classes
 **/maven-status
-
+*nbproject/
+*target/
 # files #
 *.xml
 *.mf
